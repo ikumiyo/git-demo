@@ -3,3 +3,4 @@ hello Git!
 hello Git Git!
 Hot-fix Changed!
 master Modified
+Hot-fix modified!
